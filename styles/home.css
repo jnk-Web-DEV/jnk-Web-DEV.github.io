@@ -381,16 +381,25 @@ main {
     width: 90%;
 }
 .css_percent {
-    width: 80%;
+    width: 90%;
 }
 .js_percent {
+    width: 80%;
+}
+.ts_percent {
+    width: 80%;
+}
+.angular_percent {
     width: 73%;
 }
 .react_percent {
     width: 65%;
 }
+.php_percent {
+    width: 40%;
+}
 .Ps_percent {
-    width: 60%;
+    width: 50%;
 }
 .tools_icons {
     width: 40px;
@@ -408,11 +417,23 @@ main {
 .js {
     background-image: url(../icons/secuencia-de-comandos-de-java.png);
 }
+.ts {
+    background-image: url(../icons/typescript.svg);
+}
+.angular {
+    background-image: url(../icons/angular.svg);
+}
 .react {
     background-image: url(../icons/react.svg);
 }
 .sass {
     background-image: url(../icons/sass.svg);
+}
+.boots {
+    background-image: url(../icons/bootstrap.svg);
+}
+.php {
+    background-image: url(../icons/php.svg);
 }
 .photos {
     background-image: url(../icons/ph.svg);
