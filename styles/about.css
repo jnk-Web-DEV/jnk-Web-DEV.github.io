@@ -38,6 +38,10 @@
     color: var(--white-page);
     opacity: 0.8;
 }
+.center_present strong {
+    color: var(--primary-color);
+    margin-left: 2px;
+}
 .information {
     width: 100%;
     height: auto;
